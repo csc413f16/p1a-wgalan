@@ -1,8 +1,8 @@
-Name:
+Name: Walter J. Galan
 
-Compilation and Run Successful:
+Compilation and Run Successful: compilation and run were both successful.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: local Unit Test Run successful
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
@@ -24,8 +24,8 @@ Unit Test Run Successfully:
  3. Using Android Studio's "Check out project from version control", 
  check out csc413project1 from GitHub.
  4. Compile and run the program on your machine.
- 5. Run the MainActvityTest on your machine.
- 6. At the very top of the readme file where incicated, write your
+ 5. Run the MainActivityTest on your machine.
+ 6. At the very top of the readme file where indicated, write your
  name, if you could get the program compile and run, and if you could
  get the unit test run on the program.  If you had any problems, please
  describe these problems.
